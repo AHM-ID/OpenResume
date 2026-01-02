@@ -1,0 +1,5 @@
+{
+  "name": "OpenResume",
+  "description": "A privacy-focused, client-side resume builder with multi-language support (English/Persian) and multiple PDF-ready templates.",
+  "requestFramePermissions": []
+}
