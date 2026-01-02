@@ -20,7 +20,7 @@ interface TemplateProps {
 const Watermark = ({ isRtl, color }: { isRtl: boolean; color: string }) => (
   <div className="mt-12 pt-6 border-t border-slate-100 flex justify-center flex-col items-center gap-2 no-print break-inside-avoid">
     <a
-      href="https://ahm-id.github.io/openresume"
+      href="https://ahm-id.github.io/OpenResume"
       target="_blank"
       rel="noopener"
       className="text-[10px] font-black uppercase tracking-widest hover:opacity-70 transition-opacity flex items-center gap-2 font-vazirmatn"
